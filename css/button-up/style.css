@@ -1,0 +1,32 @@
+
+#search-btn {
+    background-color: rgb(250, 248, 248);
+    color:rgb(70, 228, 194);
+    width: 160px;
+    border-radius: 50px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border: 2px solid rgb(70, 228, 194);
+    padding:5px;
+}
+
+#plus-btn {
+background-color:rgb(70, 228, 194);
+color: white;
+font-weight:300;
+width: 40px;
+border-radius: 60px;
+margin: 1px;
+padding: 10px;
+}
+#create-account-btn {
+    background-color:rgb(15, 95, 128);
+    color: white;
+    width: 160px;
+    height: 40px;
+    margin-top:5px;
+    border: 2px solid black;
+    padding:5px;
+    box-shadow: 10px 5px 5px black ;
+}
