@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>button-clicker</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="nav d-flex">
+            <h1 class="nav-title">Dojo Nary</h1>
+            <input type="search" name="search" id="search" placeholder="Search">
+            <button class="btn login-btn" onclick="Logout(this)">Login</button>
+        </div>
+        <div>
+            <div class="content d-flex">
+                <div class="main-content">
+                    <div class="card d-flex">
+                        <div class="card-word">
+                            <h1>ninja</h1>
+                            <h3>noun</h3>
+                            <h3>prural: ninja</h3>
+                            <button class="btn likes-btn" onclick="ninjaLikes()">13 Likes</button>
+                        </div>
+                        <div class="card-description">
+                            <p>practical skilled the</p>
+                            <p><a href="#">Japanese</a>art of <a href="#">ninjutus</a></p>
+                        </div>
+                    </div>
+                    <div class="card d-flex">
+                        <div class="card-word">
+                            <h1>ninja</h1>
+                            <h3>noun</h3>
+                            <h3>prural: ninja</h3>
+                            <button class="btn likes-btn" onclick="ninjaLikes()">37 Likes</button>
+                        </div>
+                        <div class="card-description">
+                            <p>practical skilled the</p>
+                            <p><a href="#">Japanese</a>art of <a href="#">ninjutus</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="sidebar">
+                    <h2>Dojonary is difine by you</h2>
+                    <button  class="btn difine-btn" onclick="hide(this)">Add definition</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
