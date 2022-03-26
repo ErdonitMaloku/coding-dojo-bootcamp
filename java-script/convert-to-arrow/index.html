@@ -26,6 +26,8 @@
     <p onmouseover="mouseOverFunction(this)">
         Moving your mouse over this text will make it black, so you cannot read it!
     </p>
+
+    
     <script>
         document.getElementById("button").onclick = () =>
             setBackgroundColorById("paragraph", "blue");
@@ -42,7 +44,7 @@
     getValueFromId = (id) => document.getElementById(id).value;    
     setBackgroundColorById = (id, color) => document.getElementById(id).style = "background-color: " + color;
     mouseOverFunction = (el) => el.style = "background-color: black";
-    
+
     </script>
 </body>
 </html>
