@@ -1,0 +1,30 @@
+.App {
+  padding: 30px 30%;
+}
+
+
+.field {
+  background-color: rgb(255, 249, 249);
+  border: 1px solid lightgray ;
+  border-radius: 5px ;
+  padding: 5px 10px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.field label {
+  color: rgb(196, 196, 196);
+}
+
+input {
+  border: 1px solid lightgray ;
+  border-radius: 5px;
+  padding: 10px;
+  width: 60%;
+  margin-left: 10px;
+}
+
+h4 {
+  padding: 0px;
+  margin: 0px;
+}
