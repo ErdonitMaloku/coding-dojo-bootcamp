@@ -9,7 +9,7 @@
   border-radius: 5px ;
   padding: 5px 10px;
   width: 80%;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .field label {
@@ -27,4 +27,11 @@ input {
 h4 {
   padding: 0px;
   margin: 0px;
+}
+
+.error {
+  color: red;
+  font-size: 15px;
+  margin: 0px;
+  padding: 0px;
 }
