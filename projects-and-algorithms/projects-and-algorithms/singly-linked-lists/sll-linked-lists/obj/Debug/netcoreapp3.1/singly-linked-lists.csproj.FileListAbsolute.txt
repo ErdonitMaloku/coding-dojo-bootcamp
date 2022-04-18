@@ -1,0 +1,65 @@
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\bin\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\New folder\obj\Debug\netcoreapp3.1\singly-linked-lists.genruntimeconfig.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\bin\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front\obj\Debug\netcoreapp3.1\singly-linked-lists.genruntimeconfig.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\bin\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-and-contains\obj\Debug\netcoreapp3.1\singly-linked-lists.genruntimeconfig.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\bin\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\front-contains-length\obj\Debug\netcoreapp3.1\singly-linked-lists.genruntimeconfig.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\bin\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\singly-linked-lists\sll-linked-lists\obj\Debug\netcoreapp3.1\singly-linked-lists.genruntimeconfig.cache

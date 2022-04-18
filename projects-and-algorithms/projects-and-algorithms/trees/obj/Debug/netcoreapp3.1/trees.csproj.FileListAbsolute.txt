@@ -1,0 +1,13 @@
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.csprojAssemblyReference.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.AssemblyInfoInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.AssemblyInfo.cs
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.csproj.CoreCompileInputs.cache
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.exe
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.deps.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.runtimeconfig.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.runtimeconfig.dev.json
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\bin\Debug\netcoreapp3.1\trees.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.dll
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.pdb
+C:\Users\emaloku\Desktop\coding-dojo-bootcamp\projects-and-algorithms\trees\obj\Debug\netcoreapp3.1\trees.genruntimeconfig.cache

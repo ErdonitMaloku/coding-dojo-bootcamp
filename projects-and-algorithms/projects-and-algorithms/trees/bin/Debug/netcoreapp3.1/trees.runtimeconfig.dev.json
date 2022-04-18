@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\emaloku\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emaloku\\.nuget\\packages"
+    ]
+  }
+}

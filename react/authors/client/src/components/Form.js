@@ -2,7 +2,6 @@ import "./Form.css";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 const Form = (props) =>{
-
     const navigate = useNavigate();
     return(
         <div>
